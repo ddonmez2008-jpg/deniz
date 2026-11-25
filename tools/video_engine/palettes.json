@@ -1,0 +1,7 @@
+{
+ "1": {"name": "Paper + Ink Blue", "mode": "light", "BG": "F4F1EA", "SURF": "E9E4D8", "TXT": "16181D", "MUTE": "5E6470", "GRID": "D6D0C3", "ACC": "1F5AA6", "NEG": "C2412D", "BAR": "B9B2A4", "LIGHT": "F5F3EE", "TINT": "A9C8F2"},
+ "2": {"name": "Graphite + Amber", "mode": "dark", "BG": "121418", "SURF": "1C2027", "TXT": "F2F0EB", "MUTE": "9AA1AC", "GRID": "2C323B", "ACC": "F2A93B", "NEG": "E5624D", "BAR": "3A414C", "LIGHT": "F5F3EE", "TINT": "F6C978"},
+ "3": {"name": "Chalk + Forest Green", "mode": "light", "BG": "F2F3EF", "SURF": "E4E7E0", "TXT": "1A1F1C", "MUTE": "5C6660", "GRID": "D3D8D0", "ACC": "2E6B4F", "NEG": "B5482F", "BAR": "B3BAB1", "LIGHT": "F4F5F1", "TINT": "B5D8C4"},
+ "4": {"name": "Midnight + Mint", "mode": "dark", "BG": "0E1A2B", "SURF": "172638", "TXT": "EEF3F7", "MUTE": "93A3B5", "GRID": "24364C", "ACC": "4FD1B0", "NEG": "F07167", "BAR": "31455E", "LIGHT": "F2F5F8", "TINT": "9FE8D6"},
+ "5": {"name": "Sand + Deep Teal", "mode": "light", "BG": "F5EFE6", "SURF": "EBE2D5", "TXT": "231B16", "MUTE": "6E625A", "GRID": "DCD1C2", "ACC": "1F6F73", "NEG": "C0582F", "BAR": "C9BCAA", "LIGHT": "F7F2EB", "TINT": "A8DCD9"}
+}
